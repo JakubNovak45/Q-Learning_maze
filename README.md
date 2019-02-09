@@ -1,7 +1,7 @@
 # Q-learning maze
 
 ## Pictures
-![](images/RL_maze.png)
+![](RL_maze.png)
 
 ## Authors
 * **Jakub Novák**
